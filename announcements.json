@@ -1,0 +1,34 @@
+{
+  "announcements": [
+    {
+      "id": "welcome-to-arctyll",
+      "title": "Welcome to Arctyll",
+      "content": "We're excited to launch our new website! Arctyll is dedicated to creating innovative Minecraft mods and tools for the community.",
+      "date": "2025-07-07",
+      "readTime": "1 min read",
+      "type": "general",
+      "priority": "high",
+      "author": "Arctyll Team"
+    },
+    {
+      "id": "introducing-emitly",
+      "title": "Introducing Emitly: A New Era of Effortless Chatting",
+      "content": "We’re excited to give you an early look at **Emitly**, our upcoming browser-based chat platform built for simplicity, speed, and elegance. Emitly is designed to make conversations seamless — without the need for downloads, installations, or complex setup.\n\n## A Platform That Just Works\n\nEmitly runs entirely in your browser. It’s fast, responsive, and accessible from any modern device — desktop, tablet, or mobile. There’s no app to install and no friction between you and the people you want to talk to.\n\n## Simple Yet Powerful Features\n\nEmitly will support real-time chat, friend management, and contact lists from day one. The interface is minimal yet full-featured, making it easy to connect, communicate, and stay in touch — all in one place.\n\n## Built for the Modern Web\n\nEmitly is being developed as a **Progressive Web App (PWA)**. That means it can be installed to your home screen, works offline, and behaves like a native app — all without leaving your browser.\n\n## Designed with Care\n\nFrom its clean design to its smooth interactions, every part of Emitly is thoughtfully crafted. The goal is to provide a focused, distraction-free chatting experience without unnecessary complexity.\n\n## What to Expect Next\n\nEmitly is currently in the final stages of development. Here’s what’s coming:\n\n- Direct messaging with fast delivery\n- Friends and contact management\n- Clean, responsive UI with light/dark mode\n- Browser-first experience — no app needed\n\nIn the future, we’ll be expanding with features like group chats, message reactions, media sharing, and more — all while keeping the experience light and enjoyable.\n\n---\n\n**Emitly is coming soon.** Stay tuned for the launch and get ready to experience chat, reimagined for the modern web.",
+      "date": "2025-07-22",
+      "readTime": "3 min read",
+      "type": "product",
+      "priority": "high",
+      "author": "Arctyll Team"
+    },
+    {
+      "id": "introducing-veyzenclient",
+      "title": "Sneak Peek: VeyzenClient Is Coming",
+      "content": "**VeyzenClient** is our new open-source Minecraft 1.8.9 Forge-based client — built from scratch with performance, modularity, and user experience in mind.\n\n## Still in Development\n\nVeyzenClient is currently **in early development** (started mid-2025), and there is **no public release yet**. We're working hard to ensure the first version is stable, customizable, and blazing fast.\n\n## What's Planned?\n\nHere’s a quick glance at what’s coming:\n\n- Modular settings system\n- Optimized Forge base for Minecraft 1.8.9\n- Smooth UI built for PvP and customization\n- Feature-rich mod loader and cleaner file structure\n\n## Get Involved\n\nYou can already explore the source code, star the repo, or track progress on our GitHub.\n\nStay tuned for updates — and follow along as we build something truly fresh for the 1.8.9 PvP scene.\n\n---\n\n**Visit the [VeyzenClient GitHub](https://github.com/Arctyll/VeyzenClient) to preview what’s coming.**",
+      "date": "2025-07-27",
+      "readTime": "2 min read",
+      "type": "product",
+      "priority": "high",
+      "author": "Arctyll Team"
+    }
+  ]
+}

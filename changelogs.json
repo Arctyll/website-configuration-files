@@ -1,0 +1,25 @@
+{
+  "projects": {
+    "fatigue-plus": {
+      "name": "Fatigue+",
+      "description": "Fatigue+ is a lightweight, immersive Minecraft mod that simulates sleep deprivation. Designed for Minecraft 1.8.9 (Forge) and built to work client-side only, this mod tracks how long you’ve stayed awake and progressively makes your experience more difficult.",
+      "versions": [
+        {
+          "version": "0.1",
+          "releaseDate": "2025-04-21",
+          "mcVersion": "1.8.9",
+          "type": "major",
+          "changes": {
+            "added": [
+              "Sleep deprivation mechanic with progressive debuffs and death",
+              "Client-side mod for Minecraft 1.8.9 using Forge"
+            ],
+            "changed": [],
+            "fixed": [],
+            "removed": []
+          }
+        }
+      ]
+    }
+  }
+}

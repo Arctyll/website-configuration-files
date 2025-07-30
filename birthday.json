@@ -1,0 +1,24 @@
+{
+  "birthdayPerson": {
+    "name": "PLSzymonGaming",
+    "ign": "PLSzymonGaming"
+  },
+  "messages": [
+    {
+      "name": "ClassyCoder",
+      "role": "Fullstack Developer",
+      "description": "Happy birthday, Disburial! ✨",
+      "githubUrl": "https://github.com/ClassyCoder1",
+      "color": "#8B5CF6",
+      "mcIgn": "ClassyCoder"
+    },
+    {
+      "name": "SigmaCat",
+      "role": "Fullstack Developer",
+      "description": "Wishing you an amazing day filled with happiness!",
+      "githubUrl": "https://github.com/SigmaCat",
+      "color": "#22D3EE",
+      "mcIgn": "SigmaCat_"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "socials": [
+    { "label": "GitHub", "href": "https://github.actyll.com", "icon": "Github" },
+    { "label": "Email", "href": "mailto:team@arctyll.com", "icon": "Mail" },
+    { "label": "Twitter", "href": "https://x.com/Arctyll", "icon": "Twitter" },
+    { "label": "YouTube", "href": "https://youtube.com/@Arctyll", "icon": "Youtube" }
+  ],
+  "sections": [
+    {
+      "title": "Projects",
+      "icon": "Code",
+      "links": [
+        { "label": "All Projects", "href": "/projects/all" },
+        { "label": "Applications", "href": "/projects/app" },
+        { "label": "Minecraft Clients", "href": "/projects/clients" },
+        { "label": "Minecraft Mods", "href": "/projects/mods" }
+      ]
+    },
+    {
+      "title": "Community",
+      "icon": "Users",
+      "links": [
+        { "label": "About Us", "href": "/about" },
+        { "label": "Our Team", "href": "/team" },
+        { "label": "Branding", "href": "/branding" },
+        { "label": "Blogs", "href": "/blogs" },
+        { "label": "Contact", "href": "/contact" }
+      ]
+    },
+    {
+      "title": "Resources",
+      "icon": "Book",
+      "links": [
+        { "label": "Documentation", "href": "https://github.actyll.com", "external": true },
+        { "label": "GitHub", "href": "https://github.actyll.com", "external": true },
+        { "label": "Report a Bug", "href": "https://github.actyll.com/issues", "external": true }
+      ]
+    },
+    {
+      "title": "Legal",
+      "icon": "FileText",
+      "links": [
+        { "label": "Terms of Service", "href": "/legal/terms" },
+        { "label": "Privacy Policy", "href": "/legal/privacy" },
+        { "label": "Refund Policy", "href": "/legal/refund" }
+      ]
+    }
+  ]
+}

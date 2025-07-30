@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": "build-your-first-discord-bot",
+      "title": "How to Build Your First Discord Bot",
+      "excerpt": "A step-by-step guide to creating your first Discord bot using modern tools like Node.js and Discord.js.",
+      "content": "## Getting Started with Discord Bots\n\nDiscord bots can automate tasks, moderate communities, and enhance engagement. In this guide, we’ll walk through how to build your first bot using **Node.js** and **discord.js**.\n\n### 1. Setting Up Your Bot\n\n- Head to the [Discord Developer Portal](https://discord.com/developers/applications) and create a new application.\n- Go to the 'Bot' tab and click 'Add Bot'.\n- Copy the token — **keep it secret**.\n\n### 2. Writing the Code\n\n```bash\nnpm install discord.js\n```\n\n```js\nconst { Client, GatewayIntentBits } = require('discord.js');\nconst client = new Client({ intents: [GatewayIntentBits.Guilds] });\n\nclient.on('ready', () => {\n  console.log(`Logged in as ${client.user.tag}`);\n});\n\nclient.login('YOUR_TOKEN_HERE');\n```\n\n### 3. Running It\n\nRun your bot with:\n\n```bash\nnode index.js\n```\n\n### What’s Next\n\nAdd commands, moderation features, or music playback. The sky’s the limit.\n\n_Bots make communities more powerful — and now you can build one yourself._",
+      "author": "Arctyll Team",
+      "date": "2025-07-22",
+      "readTime": "5 min read",
+      "tags": ["discord", "bots", "tutorial"]
+    },
+    {
+      "id": "ai-tools-changing-workflows",
+      "title": "5 AI Tools That Are Quietly Changing How We Work",
+      "excerpt": "From writing code to generating content — here are the AI tools that are becoming part of the everyday workflow.",
+      "content": "## The Quiet Revolution of AI Tools\n\nAI is no longer hype — it's the backbone of many productivity stacks. Here are five tools that are changing workflows across industries.\n\n### 1. ChatGPT (OpenAI)\n\nFrom generating code snippets to writing professional emails, ChatGPT is a versatile tool for developers, writers, and marketers.\n\n### 2. Notion AI\n\nBuilt right into Notion, this assistant summarizes content, generates ideas, and helps manage knowledge like never before.\n\n### 3. GitHub Copilot\n\nDevelopers love Copilot for its ability to autocomplete and even explain code. It’s like pair programming with an AI.\n\n### 4. Perplexity.ai\n\nNeed a concise research summary? Perplexity delivers trusted information, fast.\n\n### 5. Descript\n\nFor podcasters and video editors — Descript allows AI-powered editing, voice cloning, and transcription.\n\n_The best AI tools disappear into your workflow — until you can’t imagine working without them._",
+      "author": "Arctyll Team",
+      "date": "2025-07-22",
+      "readTime": "4 min read",
+      "tags": ["ai", "tools", "productivity"]
+    },
+    {
+      "id": "automate-your-life-with-scripts",
+      "title": "Automate Your Life with Custom Scripts",
+      "excerpt": "Small scripts can lead to massive time savings. Here’s how to start automating daily tasks with JavaScript and Python.",
+      "content": "## Why Automation Matters\n\nEvery minute you save compounds. With just a bit of scripting knowledge, you can offload repetitive tasks and focus on what matters.\n\n### Common Use Cases\n\n- **Auto-file sorting**: Rename and organize downloads\n- **API integrations**: Connect tools like Google Sheets, Slack, or Twitter\n- **Notifications**: Get real-time alerts when certain conditions are met\n\n### Example: Auto-Archive Downloads (Python)\n\n```python\nimport os, shutil\nfrom datetime import datetime\n\nsource = '/Users/you/Downloads'\ndest = '/Users/you/Downloads/Archived/' + datetime.now().strftime(\"%Y-%m-%d\")\nos.makedirs(dest, exist_ok=True)\n\nfor file in os.listdir(source):\n    if file.endswith(\".pdf\"):\n        shutil.move(os.path.join(source, file), os.path.join(dest, file))\n```\n\n### Pro Tip\n\nSet these scripts to run with a scheduler (like cron jobs or Task Scheduler) — and you're hands-free.\n\n_Automation is power. Scripts are your tools._",
+      "author": "Arctyll Team",
+      "date": "2025-07-22",
+      "readTime": "6 min read",
+      "tags": ["automation", "scripts", "python", "javascript"]
+    },
+    {
+      "id": "best-browser-based-tools",
+      "title": "10 Browser-Based Tools You Should Be Using",
+      "excerpt": "Powerful tools, no install required. These web apps help you design, code, write, and stay organized.",
+      "content": "## Browser-Based Tools Worth Bookmarking\n\nNo installs, no friction — just open and go. Here are 10 browser-based tools that are fast becoming essentials.\n\n1. **Figma** – Collaborative design platform for UI/UX\n2. **Replit** – Run code in-browser for over 50+ languages\n3. **Canva** – Simple graphic design for non-designers\n4. **Squoosh** – Image compression by Google\n5. **Photopea** – Photoshop-like experience in your browser\n6. **CodeSandbox** – Great for prototyping React/Vue/JS apps\n7. **Trello** – Project management made visual\n8. **Tldraw** – Infinite whiteboard sketching\n9. **Kapwing** – Easy video editing and meme creation\n10. **Excalidraw** – Hand-drawn style diagrams for brainstorming\n\n_The modern browser is your new toolbox. These apps prove you don’t need to install anything to get serious work done._",
+      "author": "Arctyll Team",
+      "date": "2025-07-22",
+      "readTime": "5 min read",
+      "tags": ["webapps", "productivity", "tools"]
+    }
+  ]
+}

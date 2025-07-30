@@ -1,0 +1,42 @@
+{
+  "projects": [
+    {
+      "id": "emitly",
+      "name": "Emitly",
+      "description": "Emitly is a beautifully designed chat app that makes connecting with others effortless. With features like friends, contacts, and more, it offers everything you need for a smooth and engaging chatting experience. Best of all, Emitly works entirely in your browser — no downloads or installations required.",
+      "category": "apps",
+      "status": "under development",
+      "featured": true,
+      "tags": ["chatting"]
+    },
+    {
+      "id": "veyzenclient",
+      "name": "VeyzenClient",
+      "description": "VeyzenClient is a sleek, modern, open-source Minecraft 1.8.9 Forge-based client currently in development. Designed for performance, stability, and customization, it enhances your gameplay experience while staying lightweight and user-friendly.",
+      "category": "clients",
+      "status": "under development",
+      "githubUrl": "https://github.com/VeyzenClient",
+      "downloadUrl": "https://arctyll.com/veyzenclient/download",
+      "featured": true,
+      "tags": ["client", "performance", "forge", "customization"],
+      "mcVersions": ["1.8.9"],
+      "modLoader": ["forge"]
+    },
+    {
+      "id": "fatigue-plus",
+      "name": "Fatigue+",
+      "description": "Fatigue+ is a lightweight, immersive Minecraft mod that simulates sleep deprivation. Designed for Minecraft 1.8.9 (Forge) and built to work client-side only, this mod tracks how long you’ve stayed awake and progressively makes your experience more difficult.",
+      "category": "mods",
+      "status": "beta",
+      "githubUrl": "https://github.com/Arctyll/FatiguePLUS",
+      "downloadUrl": "https://cdn.modrinth.com/data/AieTRoxq/versions/hejL2IHN/Fatigue%2B-0.1.jar",
+      "featured": false,
+      "tags": ["qol"],
+      "mcVersions": ["1.8.9"],
+      "modLoader": ["forge"],
+      "version": "1.0",
+      "fileSize": "9.68 Kb",
+      "releaseDate": "2025-04-21"
+    }
+  ]
+}
