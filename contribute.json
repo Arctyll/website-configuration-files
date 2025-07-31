@@ -1,0 +1,81 @@
+{
+  "cards": [
+    {
+      "icon": "Lightbulb",
+      "title": "Suggest Features",
+      "description": "Have an idea for something Arctyll should add? We’re always listening. Whether it’s a feature, tool, or tweak, your feedback matters.",
+      "buttonText": "Send an Idea",
+      "buttonHref": "/contact"
+    },
+    {
+      "icon": "Sparkles",
+      "title": "Test & Review",
+      "description": "Help us identify bugs, improve UX, and make sure everything runs smoothly before public release.",
+      "buttonText": "Explore Projects",
+      "buttonHref": "/projects/all"
+    },
+    {
+      "icon": "Github",
+      "title": "Contribute Code",
+      "description": "We occasionally open-source specific tools or components. Check GitHub to see where you can pitch in.",
+      "buttonText": "View GitHub",
+      "buttonHref": "https://github.com/arctyll",
+      "external": true
+    },
+    {
+      "icon": "Terminal",
+      "title": "Build Tools",
+      "description": "Have experience in modding, frontend, or backend tools? Dive into active dev work or help us architect something new.",
+      "buttonText": "Reach Out",
+      "buttonHref": "/contact"
+    },
+    {
+      "icon": "Languages",
+      "title": "Translate Arctyll",
+      "description": "Help us translate UI, messages, and texts into your language. It helps Arctyll reach more people.",
+      "buttonText": "Help Translate",
+      "buttonHref": "/contact"
+    },
+    {
+      "icon": "Palette",
+      "title": "Design UI",
+      "description": "If you’re a designer, your UX/UI input is gold. Improve layout, flow, or visuals in live projects.",
+      "buttonText": "Share Designs",
+      "buttonHref": "/contact"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is Arctyll open-source?",
+      "answer": "Only partially. Some tools are public on GitHub, but others remain private due to security and stability concerns."
+    },
+    {
+      "question": "Do I need to know Minecraft modding?",
+      "answer": "Not at all. While some projects involve Forge, most of Arctyll’s ecosystem revolves around software tools, web tech, and utilities."
+    },
+    {
+      "question": "Can I help without coding?",
+      "answer": "Absolutely. Testing, design feedback, writing, translation — all of that is super helpful."
+    },
+    {
+      "question": "How do I officially join the team?",
+      "answer": "Start by contributing through the public projects or reaching out via the contact page. We notice consistent, thoughtful contributions."
+    },
+    {
+      "question": "How do I report a bug or issue?",
+      "answer": "Use the contact page or open an issue on GitHub if the project is public. Be clear and detailed — it helps us fix things faster."
+    },
+    {
+      "question": "What skills are most helpful?",
+      "answer": "Programming (Java, JS/TS), UI/UX design, localization, and testing are the top areas — but passion and creativity matter most."
+    },
+    {
+      "question": "What tools do you use internally?",
+      "answer": "VS Code, IntelliJ, Vite, React, Forge (1.8.9), GitHub, and Figma — we’re open to new workflows if they improve collaboration."
+    },
+    {
+      "question": "Can I contribute anonymously?",
+      "answer": "Yes, though we encourage consistent identities for proper recognition. Anon feedback and bug reports are always welcome."
+    }
+  ]
+}
