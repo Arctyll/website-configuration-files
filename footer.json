@@ -24,7 +24,8 @@
         { "label": "Our Team", "href": "/team" },
         { "label": "Branding", "href": "/branding" },
         { "label": "Blogs", "href": "/blogs" },
-        { "label": "Contact", "href": "/contact" }
+        { "label": "Contact", "href": "/contact" },
+        { "label": "Contribute", "href": "/contribute"}
       ]
     },
     {
