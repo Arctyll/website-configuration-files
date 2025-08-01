@@ -20,6 +20,51 @@
           }
         }
       ]
+    },
+    "display-api": {
+      "name": "Display-API",
+      "description": "Display-API is a lightweight, dependency-free API for displaying BossBars, ActionBars, Titles, and Holograms in Minecraft 1.8.9 using native packets.",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "releaseDate": "2025-08-01",
+          "mcVersion": "1.8.9",
+          "type": "patch",
+          "changes": {
+            "added": [
+              "HologramManager and HologramFactory improvements",
+              "Support for Animated and Static Holograms via ArmorStands"
+            ],
+            "changed": [
+              "Optimized BossBar packet stability and entity removal logic"
+            ],
+            "fixed": [
+              "Crash when using ActionBar on empty player list"
+            ],
+            "removed": [
+              "GUI API (experimental GUI framework removed for stability)"
+            ]
+          }
+        },
+        {
+          "version": "1.0",
+          "releaseDate": "2025-07-11",
+          "mcVersion": "1.8.9",
+          "type": "major",
+          "changes": {
+            "added": [
+              "BossBar API with color, style, update, and remove support",
+              "ActionBar API with duration and global sending",
+              "Title API with fade-in/out and subtitle",
+              "GUI API for basic in-game inventory interfaces",
+              "Hologram API including static and animated holograms"
+            ],
+            "changed": [],
+            "fixed": [],
+            "removed": []
+          }
+        }
+      ]
     }
   }
 }

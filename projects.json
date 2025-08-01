@@ -37,6 +37,22 @@
       "version": "1.0",
       "fileSize": "9.68 Kb",
       "releaseDate": "2025-04-21"
+    },
+    {
+      "id": "display-api",
+      "name": "Display-API",
+      "description": "Display-API is a lightweight, dependency-free API for displaying BossBars, ActionBars, Titles, and Holograms in Minecraft 1.8.9 using native packets. Built for plugin developers who want full control without any overhead.",
+      "category": "libraries",
+      "status": "stable",
+      "githubUrl": "https://github.com/Arctyll/DisplayAPI",
+      "downloadUrl": "https://repo1.maven.org/maven2/com/arctyll/display-api/1.0.1/display-api-1.0.1.jar",
+      "featured": true,
+      "tags": ["api", "plugin", "spigot", "1.8.9"],
+      "mcVersions": ["1.8.9"],
+      "modLoader": ["none"],
+      "version": "1.0.1",
+      "fileSize": "22.51 Kb",
+      "releaseDate": "2025-08-01"
     }
   ]
 }
