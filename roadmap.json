@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "title": "VeyzenClient",
+    "description": "Forge 1.8.9 Minecraft client focusing on performance, customization, and sleek UI (no glass UI). Currently in active development.",
+    "status": "In Progress",
+    "type": "Project",
+    "icon": "Cpu",
+    "links": [
+      { "label": "About", "href": "/veyzenclient/about" },
+      { "label": "Features", "href": "/veyzenclient/features" },
+      { "label": "Download", "href": "/veyzenclient/download" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "NotificationAPI",
+    "description": "Universal notification system for Minecraft mods, multi-version compatible with Forge and Fabric. Supports toast, bossbar, chat, and more.",
+    "status": "Planned",
+    "type": "Library",
+    "icon": "BellRing",
+    "links": []
+  },
+  {
+    "id": 3,
+    "title": "Veilborn Plugin Roadmap",
+    "description": "Multi-phase Minecraft plugin featuring soul energy systems, rituals, eldritch machinery, a new dimension, and endgame content.",
+    "status": "Long Term",
+    "type": "Plugin",
+    "icon": "Flame",
+    "phases": [
+      {
+        "phase": "Release 1 – Foundations",
+        "details": [
+          "Soul Energy System",
+          "Basic ores & materials",
+          "Starter weapons & armor",
+          "New mobs + ambient textures/sounds"
+        ]
+      },
+      {
+        "phase": "Release 2 – Ritual Awakening",
+        "details": [
+          "Ritual Circle & basic rituals",
+          "Soul Research Table",
+          "New gear, materials, mini-boss",
+          "Lore notes + Bloodborne Armor"
+        ]
+      },
+      {
+        "phase": "Release 3 – Eldritch Machinery",
+        "details": [
+          "Machines: Generator, Infuser, Condenser",
+          "New tech ores + chainable systems",
+          "Tech weapons + Arkanite Armor"
+        ]
+      },
+      {
+        "phase": "Release 4 – The Veil Dimension",
+        "details": [
+          "New world: corrupted biomes, dark skies",
+          "Exclusive ores, mobs, & bosses",
+          "Veil armor sets + ambient effects"
+        ]
+      },
+      {
+        "phase": "Release 5 – Forbidden Evolution",
+        "details": [
+          "Soul Evolution Tree (classes)",
+          "Soulcrafting + artifact gear",
+          "Corruption system + mutated mobs"
+        ]
+      },
+      {
+        "phase": "Release 6 – Echoes of the Void",
+        "details": [
+          "Anomaly events & world bosses",
+          "Final gear sets & legendary artifacts",
+          "Secret endings based on your path"
+        ]
+      }
+    ]
+  }
+]
