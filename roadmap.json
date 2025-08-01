@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "VeyzenClient",
-    "description": "Forge 1.8.9 Minecraft client focusing on performance, customization, and sleek UI (no glass UI). Currently in active development.",
+    "description": "Forge 1.8.9 Minecraft client focusing on performance, customization, and sleek UI. Currently in active development.",
     "status": "In Progress",
     "type": "Project",
     "icon": "Cpu",
