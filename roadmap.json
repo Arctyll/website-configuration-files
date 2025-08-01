@@ -9,7 +9,9 @@
     "links": [
       { "label": "About", "href": "/veyzenclient/about" },
       { "label": "Features", "href": "/veyzenclient/features" },
-      { "label": "Download", "href": "/veyzenclient/download" }
+      { "label": "Download", "href": "/veyzenclient/download" },
+      { "label": "FAQ", "href": "/veyzenclient/faq" },
+      { "label": "License", "href": "/veyzenclient/license" }
     ]
   },
   {
