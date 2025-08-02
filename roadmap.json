@@ -17,7 +17,7 @@
   {
     "id": 2,
     "title": "NotificationAPI",
-    "description": "Universal notification system for Minecraft mods, multi-version compatible with Forge and Fabric. Supports toast, bossbar, chat, and more.",
+    "description": "A Minecraft modding API for rendering in-game notifications with auto-sizing, text wrapping, and NanoVG.",
     "status": "Planned",
     "type": "Library",
     "icon": "BellRing",
