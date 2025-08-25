@@ -12,8 +12,7 @@
           "changelog": "Initial stable release with sleep deprivation mechanics. Includes better performance and better compatibility.",
           "mcVersions": ["1.8.9"],
           "platforms": ["forge"],
-          "breaking": false,
-          "dependencies": []
+          "breaking": false
         }
       ]
     },
@@ -29,8 +28,7 @@
           "changelog": "Bug fixes and performance improvements. Fixed memory leaks in hologram rendering, improved packet handling, and better error handling for malformed data.",
           "mcVersions": ["1.8.9"],
           "platforms": ["spigot", "paper", "bukkit"],
-          "breaking": false,
-          "dependencies": []
+          "breaking": false
         },
         {
           "version": "1.0.0",
@@ -41,8 +39,7 @@
           "changelog": "Initial stable release. Lightweight API for BossBars, ActionBars, Titles, and Holograms using native packets. Fully dependency-free implementation.",
           "mcVersions": ["1.8.9"],
           "platforms": ["spigot", "paper", "bukkit"],
-          "breaking": false,
-          "dependencies": []
+          "breaking": false
         }
       ]
     }
