@@ -1,9 +1,18 @@
 [
   {
     "id": 1,
-    "title": "VeyzenClient",
+    "title": "Notification API",
+    "description": "A Minecraft modding API for rendering in-game notifications with auto-sizing, text wrapping, and NanoVG.",
+    "status": "Under Development",
+    "type": "Library",
+    "icon": "BellRing",
+    "links": []
+  },
+  {
+    "id": 2,
+    "title": "Veyzen Client",
     "description": "Forge 1.8.9 Minecraft client focusing on performance, customization, and sleek UI. Currently in active development.",
-    "status": "In Progress",
+    "status": "Under Development",
     "type": "Project",
     "icon": "Cpu",
     "links": [
@@ -15,17 +24,8 @@
     ]
   },
   {
-    "id": 2,
-    "title": "NotificationAPI",
-    "description": "A Minecraft modding API for rendering in-game notifications with auto-sizing, text wrapping, and NanoVG.",
-    "status": "Planned",
-    "type": "Library",
-    "icon": "BellRing",
-    "links": []
-  },
-  {
     "id": 3,
-    "title": "Veilborn Plugin Roadmap",
+    "title": "The Veilborn",
     "description": "Multi-phase Minecraft plugin featuring soul energy systems, rituals, eldritch machinery, a new dimension, and endgame content.",
     "status": "Long Term",
     "type": "Plugin",
