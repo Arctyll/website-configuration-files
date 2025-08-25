@@ -2,16 +2,18 @@
   "sources": {
     "default": [
       {
-        "name": "GitHub",
+        "name": "GitHub Releases",
         "icon": "github",
         "url": "https://github.com/Arctyll",
-        "description": "Official releases hosted on GitHub."
+        "description": "Official releases hosted on GitHub.",
+        "recommended": true
       },
       {
         "name": "Modrinth",
         "icon": "modrinth",
         "url": "https://modrinth.com/organization/Arctyll",
-        "description": "Arctyll's Modrinth organization is the location where we host our mods."
+        "description": "Arctyll's Modrinth organization is the location where we host our mods.",
+        "recommended": true
       }
     ],
 
