@@ -1,0 +1,38 @@
+{
+  "sources": {
+    "default": [
+      {
+        "name": "GitHub",
+        "icon": "github",
+        "url": "https://github.com/Arctyll",
+        "description": "Official releases hosted on GitHub."
+      },
+      {
+        "name": "Modrinth",
+        "icon": "modrinth",
+        "url": "https://modrinth.com/organization/Arctyll",
+        "description": "Arctyll's Modrinth organization is the location where we host our mods."
+      }
+    ],
+
+    "fatigue-plus": [
+      {
+        "name": "Modrinth",
+        "icon": "modrinth",
+        "url": "https://modrinth.com/mod/fatigue-plus",
+        "description": "Project page for Fatigue+ on Modrinth.",
+        "recommended": true
+      }
+    ],
+
+    "display-api": [
+      {
+        "name": "Maven Central",
+        "icon": "maven central",
+        "url": "https://repo1.maven.org/maven2/com/arctyll/display-api/",
+        "description": "Maven Central repository for Display API.",
+        "recommended": true
+      }
+    ]
+  }
+}
