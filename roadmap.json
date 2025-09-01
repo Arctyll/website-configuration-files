@@ -1,15 +1,26 @@
 [
   {
     "id": 1,
-    "title": "Notification API",
-    "description": "A Minecraft modding API for rendering in-game notifications with auto-sizing, text wrapping, and NanoVG.",
-    "status": "Under Development",
-    "type": "Library",
-    "icon": "BellRing",
+    "title": "Moderation Plugin",
+    "description": "A professional Minecraft moderation plugin featuring six punishment commands with multi-language support, Hypixel-inspired messaging, and persistent JSON data storage. Includes customizable language files and detailed staff notifications.",
+    "status": "In Testing",
+    "type": "Plugin",
+    "icon": "Shield",
     "links": []
   },
   {
     "id": 2,
+    "title": "Notifications API",
+    "description": "A Minecraft modding API for rendering in-game notifications with auto-sizing, text wrapping, and NanoVG.",
+    "status": "In Testing",
+    "type": "Library",
+    "icon": "BellRing",
+    "links": [
+      { "label": "GitHub", "href": "https://github.com/Arctyll/NotificationsAPI"}
+    ]
+  },
+  {
+    "id": 3,
     "title": "Veyzen Client",
     "description": "Forge 1.8.9 Minecraft client focusing on performance, customization, and sleek UI. Currently in active development.",
     "status": "Under Development",
@@ -24,7 +35,7 @@
     ]
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "The Veilborn",
     "description": "Multi-phase Minecraft plugin featuring soul energy systems, rituals, eldritch machinery, a new dimension, and endgame content.",
     "status": "Long Term",
