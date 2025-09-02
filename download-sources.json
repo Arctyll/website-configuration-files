@@ -14,6 +14,13 @@
         "url": "https://modrinth.com/organization/Arctyll",
         "description": "Arctyll's Modrinth organization is the location where we host our mods.",
         "recommended": true
+      },
+      {
+        "name": "Arctyll Maven",
+        "icon": "arctyll",
+        "url": "https://repo.arctyll.com/#/releases/com/arctyll/display-api/",
+        "description": "Arctyll Maven repository for Display API.",
+        "recommended": true
       }
     ],
 
@@ -29,10 +36,10 @@
 
     "display-api": [
       {
-        "name": "Maven Central",
-        "icon": "maven central",
-        "url": "https://repo1.maven.org/maven2/com/arctyll/display-api/",
-        "description": "Maven Central repository for Display API.",
+        "name": "Arctyll Maven",
+        "icon": "arctyll",
+        "url": "https://repo.arctyll.com/#/releases/com/arctyll/display-api/",
+        "description": "Arctyll Maven repository for Display API.",
         "recommended": true
       }
     ]
