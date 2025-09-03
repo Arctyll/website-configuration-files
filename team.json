@@ -60,8 +60,22 @@
       "id": "crimson",
       "name": "Crimson",
       "role": "Frontend Developer",
-      "githubUrl": "",
+      "githubUrl": "https://github.com/Crimson302",
       "mcIgn": "NIGHTMARE0007"
+    },
+    {
+      "id": "2pb",
+      "name": "2pb",
+      "role": "Full Stack Developer",
+      "githubUrl": "",
+      "mcIgn": "2pb"
+    },
+    {
+      "id": "siddhu",
+      "name": "Siddhu Piddhu",
+      "role": "Full Stack Developer",
+      "githubUrl": "",
+      "mcIgn": "siddhu_piddhu"
     }
   ]
 }
