@@ -13,6 +13,7 @@
         "dark": "https://raw.githubusercontent.com/Arctyll/website-configuration-files/main/logos/arctyll-dark.png",
         "transparent": "https://raw.githubusercontent.com/Arctyll/website-configuration-files/main/logos/arctyll.png"
       },
+      "sizes": ["838x823", "1024x1024"],
       "preview": "https://raw.githubusercontent.com/Arctyll/arctyll.github.io/main/arctyll.png"
     }
   ],
