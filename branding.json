@@ -1,0 +1,110 @@
+{
+  "logos": [
+    {
+      "id": "arctyll-main",
+      "name": "Arctyll Logo",
+      "description": "The official Arctyll logo - use this for all main branding purposes.",
+      "category": "main",
+      "formats": {
+        "png": "https://raw.githubusercontent.com/Arctyll/arctyll.github.io/main/arctyll.png"
+      },
+      "preview": "https://example.com/arctyll-logo-preview.png"
+    }
+  ],
+  "colors": [
+    {
+      "name": "Arctyll Purple",
+      "hex": "#8b5cf6",
+      "rgb": "139, 92, 246",
+      "usage": "Primary brand color - main purple used for buttons, links, and key elements"
+    },
+    {
+      "name": "Arctyll Indigo",
+      "hex": "#6366f1",
+      "rgb": "99, 102, 241",
+      "usage": "Secondary brand color - indigo accent used in gradients and highlights"
+    },
+    {
+      "name": "Dark Primary",
+      "hex": "#0f0f0f",
+      "rgb": "15, 15, 15",
+      "usage": "Primary dark background color"
+    },
+    {
+      "name": "Dark Secondary",
+      "hex": "#1a1a1a",
+      "rgb": "26, 26, 26",
+      "usage": "Secondary dark background for cards and components"
+    },
+    {
+      "name": "Dark Tertiary",
+      "hex": "#2b2b2b",
+      "rgb": "43, 43, 43",
+      "usage": "Tertiary dark background for hover states and accents"
+    },
+    {
+      "name": "Light Background",
+      "hex": "#fafafa",
+      "rgb": "250, 250, 250",
+      "usage": "Primary light background color"
+    }
+  ],
+  "typography": [
+    {
+      "name": "Outfit",
+      "family": "Outfit, system-ui, sans-serif",
+      "weights": ["300", "400", "500", "600", "700"],
+      "usage": "Primary font family used throughout all Arctyll products and interfaces"
+    },
+    {
+      "name": "System Sans",
+      "family": "system-ui, -apple-system, sans-serif",
+      "weights": ["400", "500", "600"],
+      "usage": "Fallback font for improved performance in specific contexts"
+    },
+    {
+      "name": "Monospace",
+      "family": "ui-monospace, 'Cascadia Code', Consolas, monospace",
+      "weights": ["400", "500", "600"],
+      "usage": "Used for code blocks, technical documentation, and version numbers"
+    }
+  ],
+  "guidelines": [
+    {
+      "icon": "Sparkles",
+      "title": "Use Appropriately",
+      "description": "Only use the logo to represent official Arctyll projects and partnerships. Never use in unrelated projects or unauthorized forks.",
+      "type": "do"
+    },
+    {
+      "icon": "Layout",
+      "title": "Maintain Clear Space",
+      "description": "Keep at least 2x the logo height as clear space around the logo on all sides to preserve visual integrity.",
+      "type": "do"
+    },
+    {
+      "icon": "Palette",
+      "title": "Use Official Colors",
+      "description": "Stick to the official Arctyll purple (#8b5cf6) and indigo (#6366f1) color palette for consistency.",
+      "type": "do"
+    },
+    {
+      "icon": "MoveDiagonal",
+      "title": "Don't Distort",
+      "description": "Never stretch, warp, rotate, skew, or otherwise distort the logo proportions.",
+      "type": "dont"
+    },
+    {
+      "icon": "EyeOff",
+      "title": "No Visual Effects",
+      "description": "Don't apply shadows, glows, gradients, overlays, or other visual filters to the logo.",
+      "type": "dont"
+    },
+    {
+      "icon": "Slash",
+      "title": "Avoid Poor Contrast",
+      "description": "Don't place the logo on busy backgrounds or use it where there isn't sufficient contrast for readability.",
+      "type": "dont"
+    }
+  ]
+}
