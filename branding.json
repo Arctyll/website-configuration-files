@@ -6,7 +6,9 @@
       "description": "The official Arctyll logo - use this for all main branding purposes.",
       "category": "main",
       "formats": {
-        "png": "https://raw.githubusercontent.com/Arctyll/website-configuration-files/main/logos/arctyll.png"
+        "png": "https://raw.githubusercontent.com/Arctyll/website-configuration-files/main/logos/arctyll.png",
+        "jpg": "https://raw.githubusercontent.com/Arctyll/website-configuration-files/main/logos/arctyll.jpg",
+        "svg": "https://raw.githubusercontent.com/Arctyll/website-configuration-files/main/logos/arctyll.svg"
       },
       "variants": {
         "light": "https://raw.githubusercontent.com/Arctyll/website-configuration-files/main/logos/arctyll-light.png",
