@@ -6,15 +6,15 @@
       "description": "The official Arctyll logo - use this for all main branding purposes.",
       "category": "main",
       "formats": {
-        "png": "https://cdn.jsdelivr.net/gh/Arctyll/website-configuration-files@main/logos/arctyll.png"
+        "png": "https://cdn.jsdelivr.net/gh/Arctyll/website-configuration-files/logos/arctyll.png"
       },
       "variants": {
-        "light": "https://cdn.jsdelivr.net/gh/Arctyll/website-configuration-files@main/logos/arctyll-light.png",
-        "dark": "https://cdn.jsdelivr.net/gh/Arctyll/website-configuration-files@main/logos/arctyll-dark.png",
-        "transparent": "https://cdn.jsdelivr.net/gh/Arctyll/website-configuration-files@main/logos/arctyll.png"
+        "light": "https://cdn.jsdelivr.net/gh/Arctyll/website-configuration-files/logos/arctyll-light.png",
+        "dark": "https://cdn.jsdelivr.net/gh/Arctyll/website-configuration-files/logos/arctyll-dark.png",
+        "transparent": "https://cdn.jsdelivr.net/gh/Arctyll/website-configuration-files/logos/arctyll.png"
       },
       "sizes": ["838x823", "1024x1024"],
-      "preview": "https://cdn.jsdelivr.net/gh/Arctyll/website-configuration-files@main/logos/arctyll.png"
+      "preview": "https://cdn.jsdelivr.net/gh/Arctyll/website-configuration-files/logos/arctyll.png"
     }
   ],
   "colors": [
