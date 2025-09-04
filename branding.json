@@ -95,6 +95,24 @@
       "type": "do"
     },
     {
+      "icon": "Image",
+      "title": "Use Provided Assets",
+      "description": "Always use official, high-resolution logo files from the brand repository. Do not recreate or trace the logo.",
+      "type": "do"
+    },
+    {
+      "icon": "Type",
+      "title": "Use Brand Fonts",
+      "description": "Always pair the logo with approved brand typography for consistency in all designs.",
+      "type": "do"
+    },
+    {
+      "icon": "Download",
+      "title": "Use Correct File Formats",
+      "description": "Use vector or PNG logos as provided. SVG for web, PNG for documents, and other formats as specified.",
+      "type": "do"
+    },
+    {
       "icon": "MoveDiagonal",
       "title": "Don't Distort",
       "description": "Never stretch, warp, rotate, skew, or otherwise distort the logo proportions.",
@@ -110,6 +128,42 @@
       "icon": "Slash",
       "title": "Avoid Poor Contrast",
       "description": "Don't place the logo on busy backgrounds or use it where there isn't sufficient contrast for readability.",
+      "type": "dont"
+    },
+    {
+      "icon": "Image",
+      "title": "Don't Crop or Clip",
+      "description": "The logo should never be cropped, clipped, or partially hidden.",
+      "type": "dont"
+    },
+    {
+      "icon": "Sparkles",
+      "title": "Respect Minimum Size",
+      "description": "Do not scale the logo below its minimum recommended size to maintain legibility.",
+      "type": "do"
+    },
+    {
+      "icon": "Layout",
+      "title": "Consistent Placement",
+      "description": "Place the logo in a consistent location (e.g., top left or bottom right) across branded assets.",
+      "type": "do"
+    },
+    {
+      "icon": "Palette",
+      "title": "Monochrome Usage",
+      "description": "Use monochrome logo variants only in single-color print or restricted branding contexts.",
+      "type": "do"
+    },
+    {
+      "icon": "Slash",
+      "title": "No Background Shapes",
+      "description": "Avoid placing the logo inside shapes or containers that aren't part of the official branding.",
+      "type": "dont"
+    },
+    {
+      "icon": "EyeOff",
+      "title": "No Opacity Changes",
+      "description": "Do not lower the opacity of the logo. Always use it at 100% opacity.",
       "type": "dont"
     }
   ]
