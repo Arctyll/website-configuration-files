@@ -12,8 +12,10 @@
       "links": [
         { "label": "All Projects", "href": "/projects/all" },
         { "label": "Applications", "href": "/projects/app" },
+        { "label": "Libraries", "href": "/projects/libraries" },
         { "label": "Minecraft Clients", "href": "/projects/clients" },
-        { "label": "Minecraft Mods", "href": "/projects/mods" }
+        { "label": "Minecraft Mods", "href": "/projects/mods" },
+        { "label": "Minecraft Plugins", "href": "/projects/plugins" }
       ]
     },
     {

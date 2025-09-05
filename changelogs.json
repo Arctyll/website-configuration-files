@@ -65,6 +65,33 @@
           }
         }
       ]
+    },
+    "moderation": {
+      "name": "Moderation Plugin",
+      "description": "A professional Minecraft moderation plugin featuring six punishment commands with multi-language support, Hypixel-inspired messaging, and persistent JSON data storage. Includes customizable language files and detailed staff notifications.",
+      "versions": [
+        {
+          "version": "0.1-beta",
+          "releaseDate": "2025-09-05",
+          "mcVersion": "1.8.9",
+          "type": "major",
+          "changes": {
+            "added": [
+              "Six core punishment commands: /mute, /unmute, /ban, /unban, /tempban, /kick",
+              "Multi-language system with English translation (more coming soon)",
+              "Per-player language preferences with /language command",
+              "Hypixel-inspired message formatting with professional styling",
+              "Persistent JSON data storage for punishments and player settings",
+              "Detailed staff broadcast notifications with UUIDs, IPs, and ban IDs",
+              "Automatic punishment cleanup for expired mutes and temporary bans",
+              "Comprehensive punishment tracking with timestamps and staff information"
+            ],
+            "changed": [],
+            "fixed": [],
+            "removed": []
+          }
+        }
+      ]
     }
   }
 }

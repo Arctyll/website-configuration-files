@@ -17,9 +17,16 @@
       },
       {
         "name": "Arctyll Maven",
+        "icon": "arctyll-maven",
+        "url": "https://repo.arctyll.com/",
+        "description": "Arctyll Maven repository.",
+        "recommended": true
+      },
+      {
+        "name": "Arctyll",
         "icon": "arctyll",
-        "url": "https://repo.arctyll.com/#/releases/com/arctyll/display-api/",
-        "description": "Arctyll Maven repository for Display API.",
+        "url": "https://arctyll.com/projects",
+        "description": "Arctyll Website..",
         "recommended": true
       }
     ],

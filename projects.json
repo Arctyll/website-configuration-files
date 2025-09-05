@@ -6,7 +6,7 @@
       "description": "Emitly is a beautifully designed chat app that makes connecting with others effortless. With features like friends, contacts, and more, it offers everything you need for a smooth and engaging chatting experience. Best of all, Emitly works entirely in your browser — no downloads or installations required.",
       "category": "apps",
       "status": "under development",
-      "featured": true,
+      "featured": false,
       "tags": ["chatting"]
     },
     {
@@ -51,8 +51,23 @@
       "mcVersions": ["1.8.9"],
       "platform": ["spigot"],
       "version": "1.0.1",
-      "fileSize": "22.51 Kb",
+      "fileSize": "23.1 Kb",
       "releaseDate": "2025-07-11"
+    },
+    {
+      "id": "moderation",
+      "name": "Moderation Plugin",
+      "description": "A professional Minecraft moderation plugin featuring six punishment commands with multi-language support, Hypixel-inspired messaging, and persistent JSON data storage. Includes customizable language files and detailed staff notifications.",
+      "category": "plugins",
+      "status": "beta",
+      "downloadUrl": "https://raw.githubusercontent.com/Arctyll/website-configuration-files/main/releases/beta/moderation-0.1-beta.jar",
+      "featured": true,
+      "tags": ["plugin", "spigot", "1.8.9"],
+      "mcVersions": ["1.8.9"],
+      "platform": ["spigot"],
+      "version": "0.1-beta",
+      "fileSize": "45.62 Kb",
+      "releaseDate": "2025-09-05"
     }
   ]
 }

@@ -3,10 +3,15 @@
     "id": 1,
     "title": "Moderation Plugin",
     "description": "A professional Minecraft moderation plugin featuring six punishment commands with multi-language support, Hypixel-inspired messaging, and persistent JSON data storage. Includes customizable language files and detailed staff notifications.",
-    "status": "In Testing",
+    "status": "Completed",
     "type": "Plugin",
     "icon": "Shield",
-    "links": []
+    "links": [ 
+      {
+        "label": "Download",
+        "href": "https://arctyll.com/projects/plugins"
+      }
+    ]
   },
   {
     "id": 2,

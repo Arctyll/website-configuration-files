@@ -7,7 +7,7 @@
           "version": "1.0",
           "releaseDate": "2025-04-21",
           "status": "beta",
-          "fileSize": "9.68 KB",
+          "fileSize": "9.68 Kb",
           "downloadUrl": "https://cdn.modrinth.com/data/AieTRoxq/versions/hejL2IHN/Fatigue%2B-0.1.jar",
           "changelog": "Initial beta release with sleep deprivation mechanics. Includes better performance and better compatibility.",
           "mcVersions": ["1.8.9"],
@@ -23,7 +23,7 @@
           "version": "1.0.1",
           "releaseDate": "2025-07-11",
           "status": "stable",
-          "fileSize": "23.1 KB",
+          "fileSize": "23.1 Kb",
           "downloadUrl": "https://repo.arctyll.com/#/releases/com/arctyll/display-api/1.0.0/display-api-1.0.0.jar",
           "changelog": "Bug fixes and performance improvements. Fixed memory leaks in hologram rendering, improved packet handling, and better error handling for malformed data.",
           "mcVersions": ["1.8.9"],
@@ -34,9 +34,25 @@
           "version": "1.0",
           "releaseDate": "2025-07-01",
           "status": "unstable",
-          "fileSize": "28.4 KB",
+          "fileSize": "28.4 Kb",
           "downloadUrl": "https://repo.arctyll.com/#/releases/com/arctyll/display-api/1.0/display-api-1.0.jar",
           "changelog": "Initial release. Lightweight API for BossBars, ActionBars, Titles, and Holograms, and GUIs using native packets. Fully dependency-free implementation.",
+          "mcVersions": ["1.8.9"],
+          "platforms": ["spigot", "paper", "bukkit"],
+          "breaking": false
+        }
+      ]
+    },
+    {
+      "projectId": "moderation",
+      "versions": [
+        {
+          "version": "0.1-beta",
+          "releaseDate": "2025-09-05",
+          "status": "beta",
+          "fileSize": "45.62 Kb",
+          "downloadUrl": "https://raw.githubusercontent.com/Arctyll/website-configuration-files/main/releases/beta/moderation-0.1-beta.jar",
+          "changelog": "Initial beta release featuring six punishment commands (/mute, /unmute, /ban, /unban, /tempban, /kick) with Hypixel-inspired messaging. Includes multi-language support with English, Spanish, and French translations, persistent JSON data storage, and detailed staff broadcast notifications.",
           "mcVersions": ["1.8.9"],
           "platforms": ["spigot", "paper", "bukkit"],
           "breaking": false
