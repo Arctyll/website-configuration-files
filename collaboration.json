@@ -1,0 +1,14 @@
+{
+  "collaborations": [
+    {
+      "id": "blitzmarck-2025",
+      "name": "Blitzmarck - 2D Shooting Game",
+      "description": "Partnered to boost Blitzmarck’s growth with better management, faster updates, improved performance, and exciting new features for the community.",
+      "category": "Gaming",
+      "year": "2025",
+      "link": "https://discord.gg/9SkeUfZsme",
+      "logo": "https://raw.githubusercontent.com/Arctyll/website-configuration-files/main/logos/blitzmarck.png",
+      "featured": true
+    }
+  ]
+}
