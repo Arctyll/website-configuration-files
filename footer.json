@@ -29,7 +29,7 @@
         { "label": "Contact", "href": "/contact" },
         { "label": "Contribute", "href": "/contribute" },
         { "label": "Roadmap", "href": "/roadmap" },
-        { "label": "Collaborations", "href": "/collaborations"}
+        { "label": "Collaborations", "href": "/collaborations/all"}
       ]
     },
     {
