@@ -28,7 +28,8 @@
         { "label": "Blogs", "href": "/blogs" },
         { "label": "Contact", "href": "/contact" },
         { "label": "Contribute", "href": "/contribute" },
-        { "label": "Roadmap", "href": "/roadmap" }
+        { "label": "Roadmap", "href": "/roadmap" },
+        { "label": "Collaborations", "href": "/collaborations"}
       ]
     },
     {
