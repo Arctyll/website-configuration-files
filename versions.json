@@ -24,7 +24,7 @@
           "releaseDate": "2025-07-11",
           "status": "stable",
           "fileSize": "23.1 Kb",
-          "downloadUrl": "https://repo.arctyll.com/#/releases/com/arctyll/display-api/1.0.0/display-api-1.0.0.jar",
+          "downloadUrl": "https://repo.arctyll.com/#/releases/com/arctyll/display-api/1.0.1/display-api-1.0.1.jar",
           "changelog": "Bug fixes and performance improvements. Fixed memory leaks in hologram rendering, improved packet handling, and better error handling for malformed data.",
           "mcVersions": ["1.8.9"],
           "platforms": ["spigot", "paper", "bukkit"],
