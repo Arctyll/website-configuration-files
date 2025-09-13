@@ -1,0 +1,118 @@
+{
+  "mission": "To create open-source tools and experiences that empower Minecraft players and developers through collaboration and innovation.",
+  "values": [
+    {
+      "id": "community",
+      "title": "Community First",
+      "description": "We build with and for the community.",
+      "icon": "users"
+    },
+    {
+      "id": "opensource",
+      "title": "Open Source",
+      "description": "Our projects are free and open for collaboration.",
+      "icon": "code"
+    },
+    {
+      "id": "design",
+      "title": "Design Driven",
+      "description": "We care deeply about user experience and simplicity.",
+      "icon": "palette"
+    },
+    {
+      "id": "quality",
+      "title": "Quality",
+      "description": "Stable, performant, and reliable by default.",
+      "icon": "check-circle"
+    }
+  ],
+  "principles": [
+    {
+      "id": "transparency",
+      "title": "Transparency",
+      "description": "We work in the open, with nothing hidden from contributors."
+    },
+    {
+      "id": "collaboration",
+      "title": "Collaboration",
+      "description": "Everyone is welcome to contribute ideas, feedback, and code."
+    },
+    {
+      "id": "learning",
+      "title": "Continuous Learning",
+      "description": "We constantly adapt, improve, and grow with the community."
+    },
+    {
+      "id": "focus",
+      "title": "Focus",
+      "description": "We prioritize depth and reliability over chasing trends."
+    }
+  ],
+  "whatWeDo": [
+    {
+      "id": "mods",
+      "title": "Minecraft Mods",
+      "description": "Creating fun, community-driven mods for Minecraft."
+    },
+    {
+      "id": "tools",
+      "title": "Developer Tools",
+      "description": "Building utilities that make modding faster and easier."
+    },
+    {
+      "id": "infra",
+      "title": "Infrastructure",
+      "description": "Maintaining servers and APIs that power our projects."
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "classy",
+      "name": "ClassyCoder",
+      "role": "Founder, Full Stack Developer",
+      "quote": "Arctyll began as a small idea. Now it’s a community shaping Minecraft’s future together."
+    },
+    {
+      "id": "sigmacat",
+      "name": "SigmaCat",
+      "role": "CEO, Full Stack Developer",
+      "quote": "We focus on building things that last—code, community, and trust."
+    },
+    {
+      "id": "dark",
+      "name": "DarkGladiator26",
+      "role": "Full Stack Developer",
+      "quote": "Every commit we push is about making the experience smoother for players."
+    },
+    {
+      "id": "whispering",
+      "name": "Whispering",
+      "role": "Full Stack Developer",
+      "quote": "Good design isn’t about looks. It’s about making tools people actually enjoy using."
+    },
+    {
+      "id": "darkwall",
+      "name": "PYLzanok3",
+      "role": "Frontend Developer",
+      "quote": "Small improvements compound into a better experience for everyone."
+    },
+    {
+      "id": "crimson",
+      "name": "Crimson",
+      "role": "Frontend Developer",
+      "quote": "Our mods should feel natural in Minecraft, not forced."
+    },
+    {
+      "id": "siddhu",
+      "name": "Siddhu Piddhu",
+      "role": "Full Stack Developer",
+      "quote": "We’re not just writing code—we’re shaping community culture."
+    },
+    {
+      "id": "whiteloon",
+      "name": "WhiteLoon",
+      "role": "Full Stack Developer",
+      "quote": "Open source is about freedom. That’s why I contribute here."
+    }
+  ]
+}
