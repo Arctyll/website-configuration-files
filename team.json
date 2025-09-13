@@ -36,18 +36,25 @@
       "mcIgn": "darkwall0901"
     },
     {
-      "id": "crimson",
-      "name": "Crimson",
-      "role": "Frontend Developer",
-      "githubUrl": "https://github.com/Crimson302",
-      "mcIgn": "NIGHTMARE0007"
-    },
-    {
       "id": "siddhu",
       "name": "Siddhu Piddhu",
       "role": "Full Stack Developer",
       "githubUrl": "",
       "mcIgn": "siddhu_piddhu"
+    },
+    {
+      "id": "2pb",
+      "name": "2pb",
+      "role": "Full Stack Developer",
+      "githubUrl": "",
+      "mcIgn": "2pb"
+    },
+    {
+      "id": "disburial",
+      "name": "Disburial",
+      "role": "Frontend Developer",
+      "githubUrl": "",
+      "mcIgn": "disburial"
     },
     {
       "id": "whiteloon",
